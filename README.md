@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sandaru de silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandaru de silva" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/sandaru-de-silva-927a751b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandaru de silva" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
